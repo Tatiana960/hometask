@@ -1,0 +1,69 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1615389480312' stop='1615389497640'>
+    <name>Check sign in</name>
+    <title>Check sign in</title>
+    <test-cases>
+        <test-case start='1615389480314' status='failed' stop='1615389497631'>
+            <name>should check Yandex music</name>
+            <title>should check Yandex music</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>TypeError: browser.switchTo.window is not a function</message>
+                <stack-trace>TypeError: browser.switchTo.window is not a function
+                    at C:\Users\User\Protractor_project\secondPull\test\test.spec.js:136:36
+                    at processTicksAndRejections (internal/process/task_queues.js:93:5)</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1615389497632' status='pending' stop='1615389497635'>
+            <name>should compare two phones</name>
+            <title>should compare two phones</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>This test was ignored</message>
+                <stack-trace></stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1615389497635' status='pending' stop='1615389497636'>
+            <name>should delete items from the comparison list</name>
+            <title>should delete items from the comparison list</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>This test was ignored</message>
+                <stack-trace></stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1615389497636' status='pending' stop='1615389497637'>
+            <name>should sort cameras by price</name>
+            <title>should sort cameras by price</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>This test was ignored</message>
+                <stack-trace></stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1615389497638' status='pending' stop='1615389497638'>
+            <name>should sort by tag</name>
+            <title>should sort by tag</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>This test was ignored</message>
+                <stack-trace></stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

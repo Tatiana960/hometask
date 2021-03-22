@@ -1,0 +1,63 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1615380488597' stop='1615380503958'>
+    <name>Check sign in</name>
+    <title>Check sign in</title>
+    <test-cases>
+        <test-case start='1615380488598' status='passed' stop='1615380503953'>
+            <name>should sort cameras by price</name>
+            <title>should sort cameras by price</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1615380503954' status='pending' stop='1615380503955'>
+            <name>should compare two phones</name>
+            <title>should compare two phones</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>This test was ignored</message>
+                <stack-trace></stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1615380503955' status='pending' stop='1615380503956'>
+            <name>should delete items from the comparison list</name>
+            <title>should delete items from the comparison list</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>This test was ignored</message>
+                <stack-trace></stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1615380503956' status='pending' stop='1615380503956'>
+            <name>should navigate to Music menu</name>
+            <title>should navigate to Music menu</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>This test was ignored</message>
+                <stack-trace></stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1615380503957' status='pending' stop='1615380503957'>
+            <name>should switch on English</name>
+            <title>should switch on English</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>This test was ignored</message>
+                <stack-trace></stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

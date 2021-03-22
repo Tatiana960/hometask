@@ -1,0 +1,63 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1615488945153' stop='1615488961836'>
+    <name>Check sign in</name>
+    <title>Check sign in</title>
+    <test-cases>
+        <test-case start='1615488945155' status='passed' stop='1615488961831'>
+            <name>should delete items from the comparison list</name>
+            <title>should delete items from the comparison list</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1615488961831' status='pending' stop='1615488961832'>
+            <name>should compare two phones</name>
+            <title>should compare two phones</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>This test was ignored</message>
+                <stack-trace></stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1615488961832' status='pending' stop='1615488961833'>
+            <name>should sort cameras by price</name>
+            <title>should sort cameras by price</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>This test was ignored</message>
+                <stack-trace></stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1615488961833' status='pending' stop='1615488961834'>
+            <name>should sort by tag</name>
+            <title>should sort by tag</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>This test was ignored</message>
+                <stack-trace></stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1615488961834' status='pending' stop='1615488961835'>
+            <name>should check Yandex music</name>
+            <title>should check Yandex music</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>This test was ignored</message>
+                <stack-trace></stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

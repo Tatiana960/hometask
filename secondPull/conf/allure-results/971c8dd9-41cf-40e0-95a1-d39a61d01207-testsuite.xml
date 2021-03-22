@@ -1,0 +1,69 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1615379764171' stop='1615379781154'>
+    <name>Check sign in</name>
+    <title>Check sign in</title>
+    <test-cases>
+        <test-case start='1615379764172' status='failed' stop='1615379781148'>
+            <name>should sort cameras by price</name>
+            <title>should sort cameras by price</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>ReferenceError: pri is not defined</message>
+                <stack-trace>ReferenceError: pri is not defined
+                    at C:\Users\User\Protractor_project\secondPull\test\test.spec.js:84:20
+                    at processTicksAndRejections (internal/process/task_queues.js:93:5)</stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1615379781148' status='pending' stop='1615379781151'>
+            <name>should compare two phones</name>
+            <title>should compare two phones</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>This test was ignored</message>
+                <stack-trace></stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1615379781151' status='pending' stop='1615379781151'>
+            <name>should delete items from the comparison list</name>
+            <title>should delete items from the comparison list</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>This test was ignored</message>
+                <stack-trace></stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1615379781151' status='pending' stop='1615379781152'>
+            <name>should navigate to Music menu</name>
+            <title>should navigate to Music menu</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>This test was ignored</message>
+                <stack-trace></stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1615379781152' status='pending' stop='1615379781152'>
+            <name>should switch on English</name>
+            <title>should switch on English</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>This test was ignored</message>
+                <stack-trace></stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>
